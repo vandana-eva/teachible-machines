@@ -1,0 +1,28 @@
+body 
+{
+    background: linear-gradient(rgb(252, 153, 255),rgb(247, 57, 253), rgb(202, 0, 192));
+}
+.red
+{
+    color:rgb(92, 0, 0)
+}
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+#camera 
+{
+    width:350px ;
+    height: 300px;
+    border:5px dotted rgb(219, 64, 129);
+}
+.name_of_object
+{
+    color: rgb(136, 4, 153);
+    font-size: larger;
+}
+#result_object,#result_accuracy
+{
+    color:rgb(255, 193, 22)
+}
